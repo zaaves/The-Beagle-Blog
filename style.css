@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+.container {
+    border: 1px solid #000000;
+    padding: 15px;
+}
+.content {
+    font-size: 18px;
+}
+ol li{
+    margin-bottom: 7px;
+    font-size: 18px;
+}
